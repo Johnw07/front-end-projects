@@ -1,4 +1,38 @@
+
+
 body {
-    background-image: url(https://www.gamereactor.pl/media/76/jujutsukaisen_3627673b.jpg) ;
-    background-size: 100%;
+    background-image: url(https://www.gamereactor.pl/media/76/jujutsukaisen_3627673b.jpg);
+    font-family: "Poppins";
+}
+
+.box-home{
+    background-color: aliceblue;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    align-items: center;
+    margin-top: 15em;
+    padding: 10px;
+}
+.content-box-home h1{
+    margin: 0px
+}
+.content-box-home p{
+    margin: 0px;
+}
+.content-box-home{
+    text-align: center;
+}
+.trailer{
+    text-align: center;
+}
+.trailer h1{
+    margin-top: 1em;
+    margin-bottom: 0em;
+}
+.content-box{
+    text-align: center;
+}
+.content-box p{
+    margin: 0;
 }
